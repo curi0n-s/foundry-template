@@ -21,3 +21,6 @@
 [submodule "lib/ethfs"]
 	path = lib/ethfs
 	url = https://github.com/holic/ethfs
+[submodule "lib/scripty.sol"]
+	path = lib/scripty.sol
+	url = https://github.com/intartnft/scripty.sol
