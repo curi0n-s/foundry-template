@@ -1,1 +1,8 @@
-## Just a blank template with pre-installed libraries, contains OZ, chainlink, airnode, some optimized NFT standards such as ERC1155Delta, and ethfs/scripty for onchain storage and scripting
+## Just a blank template with pre-installed libraries, contains -
+
+1. OpenZeppelin
+2. Chainlink
+3. Airnode
+4. Optimized NFT Standards such as ERC1155Delta
+5. ethfs + scripty
+6. ethier
