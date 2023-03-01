@@ -28,3 +28,7 @@
 	path = lib/airnode
 	url = https://github.com/api3dao/airnode
 	branch = v0.10.0
+[submodule "lib/chainlink"]
+	path = lib/chainlink
+	url = https://github.com/smartcontractkit/chainlink
+	branch = v1.12.0
