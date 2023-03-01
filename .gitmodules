@@ -32,3 +32,7 @@
 	path = lib/chainlink
 	url = https://github.com/smartcontractkit/chainlink
 	branch = v1.12.0
+[submodule "lib/ethier"]
+	path = lib/ethier
+	url = https://github.com/divergencetech/ethier
+	branch = v0.54.0
